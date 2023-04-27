@@ -5,7 +5,9 @@
 *.suo
 *.user
 *.sln.docstates
-
+#rar, zip file 
+*.rar
+*.zip
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
